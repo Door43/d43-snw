@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[snw:home|Door43 (snw)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-snw|d43-snw repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-snw/archive/master.zip|d43-snw.zip]]
+
+**Recent Changes**
+{{changes>ns = snw}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/snw|Ethnologue data]]
+
